@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{13245c91-7e6d-4114-a9a7-71ecc51744f9}">
+		<property name="assetPath">
+			<value>ControllerSwipe_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.62498866213151927</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b2410ec6-fad7-44a4-9982-4d0989fcecad}</destination>
+		</relationship>
+	</object>
+</objects>

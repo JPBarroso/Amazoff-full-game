@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{6cc9a721-f6ab-4480-9a9e-c5804413c502}">
+		<property name="assetPath">
+			<value>BIG FEEEET 07.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3096666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b2410ec6-fad7-44a4-9982-4d0989fcecad}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ed0f180d-fe22-42df-8a7e-7135fd7c74db}">
+		<property name="assetPath">
+			<value>Flap 3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0416458333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b2410ec6-fad7-44a4-9982-4d0989fcecad}</destination>
+		</relationship>
+	</object>
+</objects>

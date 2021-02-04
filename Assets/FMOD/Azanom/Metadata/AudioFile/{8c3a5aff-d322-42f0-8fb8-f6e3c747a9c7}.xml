@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8c3a5aff-d322-42f0-8fb8-f6e3c747a9c7}">
+		<property name="assetPath">
+			<value>Ambi high reverb.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>65.958020833333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b2410ec6-fad7-44a4-9982-4d0989fcecad}</destination>
+		</relationship>
+	</object>
+</objects>

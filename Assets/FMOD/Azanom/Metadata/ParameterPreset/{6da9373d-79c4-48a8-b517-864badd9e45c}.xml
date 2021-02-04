@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{6da9373d-79c4-48a8-b517-864badd9e45c}">
+		<property name="name">
+			<value>Spotted</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ab44ff6c-e10f-41cb-a444-160909c10d80}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{65ed4f5c-f15d-4344-ac36-1617af35105a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{65ed4f5c-f15d-4344-ac36-1617af35105a}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Neutral</value>
+			<value>True</value>
+			<value>False</value>
+			<value>Searching</value>
+			<value>Lost</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

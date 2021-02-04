@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &983358372079415375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 499415318993791733}
+  - component: {fileID: 3549289519822693712}
+  - component: {fileID: 1631828407712780698}
+  - component: {fileID: 100485377971324306}
+  - component: {fileID: 563917510}
+  - component: {fileID: 563917509}
+  m_Layer: 0
+  m_Name: DepositBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 1
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!4 &499415318993791733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_LocalRotation: {x: -0.7069834, y: 0, z: 0, w: 0.7072302}
+  m_LocalPosition: {x: -14.47, y: -26.3, z: -26.3}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
+--- !u!33 &3549289519822693712
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_Mesh: {fileID: -3329902420748629119, guid: 78bb1d43c9502dd40b368a0ab0abaaa3, type: 3}
+--- !u!23 &1631828407712780698
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f16d43570730f0040a454b2b7fe414b0, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &100485377971324306
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3329902420748629119, guid: 78bb1d43c9502dd40b368a0ab0abaaa3, type: 3}
+--- !u!65 &563917510
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.035901595, y: 0.035801917, z: 0.01873193}
+  m_Center: {x: 0.00016526699, y: -0.00016327023, z: 0.0012806875}
+--- !u!114 &563917509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983358372079415375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d0794db28b31cd4dbe9081b0857f815, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  possibleitems:
+  - {fileID: 5713967957067043336, guid: 8c6fa102aad8db14da0603146d53fdc8, type: 3}
+  - {fileID: 8758933953860181049, guid: bd4e0750b02c8a5449673d7b892e8eb9, type: 3}
+  - {fileID: 656670155056445119, guid: cbb7dda170aea5548824235fe9a4219f, type: 3}
+  - {fileID: 4779645619243745497, guid: 11a29a733aeaf0f4c801d79fde59573f, type: 3}
+  - {fileID: 4251681499031171499, guid: 2b8524a7f8caf9e46bdff3539b4087b3, type: 3}
+  - {fileID: 2652163506632802652, guid: 54f6a228c70499646a6ba06c78cbb5c6, type: 3}
+  - {fileID: 1480571691683020793, guid: ba0b28101be8b7443a9682f24e7fbbec, type: 3}
+  - {fileID: 3075165542028903306, guid: a1b7eeadd1f09ef45886f7397b05f912, type: 3}
+  - {fileID: 3810886508565450296, guid: ed5fcd6b2ffa4e84095e4e134e2aa809, type: 3}
+  numberOfItemsToSpawn: 54
+  numberOfOrders: 6
+  ui: {fileID: 0}
+  roomba: {fileID: 0}
+  bigboi: {fileID: 0}
+  enemyTrans: {x: 0, y: 0, z: 0}

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: dee07b79f5b22d441881dc7567fb753c
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -4878270680526760620
+    second: Cube.012|Armature.001Action
+  - first:
+      74: -2328544213056023604
+    second: Cube.012|Cube.001Action
+  - first:
+      74: 2855751706083886799
+    second: Cube.012|Cube.001Action.001
+  - first:
+      74: -6167941627313934329
+    second: Cube.012|Cube.002Action
+  - first:
+      74: -5782218445101510511
+    second: Cube.012|Cube.003Action
+  - first:
+      74: -2456302462795663462
+    second: Cube.012|Cube.004Action
+  - first:
+      74: -7158189888911224536
+    second: Cube.012|Cube.007Action
+  - first:
+      74: 5273689508509650201
+    second: Cube.012|Cube.008Action
+  - first:
+      74: 1994334287178808217
+    second: Cube.012|Cube.008Action.001
+  - first:
+      74: -4471744467747471371
+    second: Cube.012|Cube.008Action.002
+  - first:
+      74: 7957889157190364108
+    second: Cube.012|Cube.011Action
+  - first:
+      74: 4795700235541847013
+    second: Cube.012|Cube.012Action
+  - first:
+      74: 8210857780264285567
+    second: Cube.012|Cube.013Action
+  - first:
+      74: -1755160714426984452
+    second: Cube.012|Cube.014Action
+  - first:
+      74: 8899986057261538669
+    second: Cube.012|Cube.015Action
+  - first:
+      74: 4467523087397270819
+    second: Cube.012|Cube.015Action.001
+  - first:
+      74: 6455885600597643835
+    second: Cube.012|CubeAction
+  - first:
+      74: 6580825526311674292
+    second: Cube.012|Cylinder.001Action
+  - first:
+      74: 1830733556151220775
+    second: Cube.012|Cylinder.002Action
+  - first:
+      74: 4738810625394829418
+    second: Cube.012|Cylinder.003Action
+  - first:
+      74: 8366663391659199328
+    second: Cube.012|Cylinder.004Action
+  - first:
+      74: 8289058389420585833
+    second: Cube.012|CylinderAction
+  - first:
+      74: 6701867012296300294
+    second: Cube.012|IcosphereAction
+  - first:
+      74: 6238365022602488936
+    second: Cube.012|Plane.001Action
+  - first:
+      74: -5998075777888813565
+    second: Cube.012|PlaneAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
